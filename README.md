@@ -1,4 +1,6 @@
 # Airbnb New York City Data Analysis Project
+
+#Dashboard Link: https://www.novypro.com/create_project/airbnb-data-analysis-2
 This project presents an analysis of Airbnb property listings across the five boroughs of New York City, focusing on hosts, property types, neighborhood group trends, review patterns, and price statistics. The dataset covers a wide range of Airbnb activity, providing valuable insights for hosts, guests, and analysts interested in the NYC short-term rental market.
 
 Project Features
